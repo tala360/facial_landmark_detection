@@ -3,7 +3,7 @@
 ## Project Overview
 This project involves designing, building, testing and critiquing a system for performing face alignment, aka. locating facial landmarks in images. A convolutional neural network (CNN) is built and trained to detect 68 facial landmarks: the jaw silhouette, eyes, eyebrows, and lips. This technique has been revealed to be cheap and quick to train. The accuracy is evaluated and the model is tested with different layers and epochs, giving relatively high accuracies.
 
-## Extras
+## Face Segmentation
 I also included face segmentation as a bonus.
 
 ## Paper
