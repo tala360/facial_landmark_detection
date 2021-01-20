@@ -9,4 +9,4 @@ I also included face segmentation as a bonus.
 ## Paper
 [To read more about the project, download my paper here](https://drive.google.com/file/d/1YKXD1_KaP7d1fJE6u6MBLf-O8ARK7mYL/view?usp=sharing)
 
-### Thank you
+### This project is protected by an MIT License. For more information, please read the 
