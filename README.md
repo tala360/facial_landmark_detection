@@ -9,4 +9,4 @@ I also included face segmentation as a bonus.
 ## Paper
 [To read more about the project, download my paper here](https://drive.google.com/file/d/1YKXD1_KaP7d1fJE6u6MBLf-O8ARK7mYL/view?usp=sharing)
 
-### This project is protected by an MIT License. For more information, please read the 
+##### This project is protected by an MIT License. For more information, please read the [LICENSE](https://github.com/tala360/facial_landmark_detection/blob/main/LICENSE) file.
